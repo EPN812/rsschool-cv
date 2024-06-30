@@ -1,29 +1,42 @@
-#Pavel Efimov
+# Pavel Efimov
 
 ----
-##Contact information:
+## Contact information:
 **Phone:** +79112001985
+
 **E-mail:** hustle.gw@gmail.com
+
 **Telegram:** @hustle_gw
-**Discord:** @EPN812
+
+**Discord:** @epn812
+
 ----
-##Briefly about myself:
+## Briefly about myself:
 ***Starting from scratch in developing...***
 
 Working as a construction engineer, I have many useful skills:
-*logical thinking
-*excellent team working
-*solving problems on time
+
+* logical thinking
+
+* excellent team working
+
+* solving problems on time
 
 I strive to study and learn new things.
-I am convinced that by benefiting society, you get much more in return
+
+I am convinced that by benefiting society, you get much more in return.
+
 ----
-##Skills:
-*MS Office
-*Autodesk AutoCad
-*Autodesk Inventor
+## Skills:
+
+* MS Office
+
+* Autodesk AutoCad
+
+* Autodesk Inventor
+
 ----
-##Code example:
+## Code example:
 **KATA fromCodeWars:** *Training JS #1: create your first JS function and print "Hello World!"*
 
 ```
@@ -33,11 +46,17 @@ function helloWorld (){
 }
 ```
 ----
-##Experience:
+## Experience:
+
 *None*
+
 ----
-##Education:
+## Education:
+
 **University:** St. Petersburg State Transport University
-##Languages:
-*Russian - native
-*English - A2 - Pre-intermediate
+
+----
+## Languages:
+
+* Russian - native
+* English - A2 - Pre-intermediate
